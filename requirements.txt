@@ -1,0 +1,15 @@
+DEPENDENCIES:
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and clustering
+scikit-learn
+
+# Notebook environment
+jupyter
