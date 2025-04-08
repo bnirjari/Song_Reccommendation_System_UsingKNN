@@ -107,3 +107,4 @@ song-recommendation-knn/
 
 ## Author
 - Nirjari Bhatt
+- Miti Bhatt
